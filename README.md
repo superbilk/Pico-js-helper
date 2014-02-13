@@ -2,6 +2,7 @@ Pico-js-helper
 ==============
 
 Include js as easy as
+
     {{ js("filename.js") }}
 
 Plugin for [Pico](http://pico.dev7studios.com/), also see their Github Repository [https://github.com/gilbitron/Pico](https://github.com/gilbitron/Pico)
